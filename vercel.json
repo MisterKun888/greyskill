@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "greyskill",
-  "regions": ["cdg1", "iad1"],
+  "regions": ["cdg1"],
   "framework": "nextjs",
   "buildCommand": "npx prisma generate && next build",
   "devCommand": "next dev",
